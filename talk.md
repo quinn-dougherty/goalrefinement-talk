@@ -1,6 +1,6 @@
 ---
 title: A Simple Theory of Goal Refinement
-author: Quinn Dougherty | quinnd.net | quinnd@tutanota.com | forum.effectivealtruism.org/users/quinn  
+author: Quinn Dougherty | quinnd.net | quinnd@riseup.net | forum.effectivealtruism.org/users/quinn  
 patat:
     incrementalLists: true
     wrap: true
@@ -13,38 +13,32 @@ patat:
         code: 
             - onDullYellow
             - dullBlack
-    images: 
-        backend: auto
 ...
+
+Notes: 
+- refine language around `levers`. 
+- takeaways slide. 
+    - consider doing the whole talk over again in three whole minutes after the summary slide. 
+- **why this matters** slide in the beginning and at the end. 
 
 # A simple theory of goal refinement
 
 - Quinn Dougherty
-- quinnd@tutanota.com
+- quinnd@riseup.net
 - quinnd.net 
 - forum.effectivealtruism.org/users/quinn
 
 # Biographical notes
 
-You have to decide how seriously to take me, so these are relevant
+- Probably started calling myself an EA actively around 2019
+- 2020-2021: Messed around with AGI alignment
+- 2022: Accepted trial offer at Quantified Uncertainty Research Institute (QURI) to work on _evaluations infrastructure_ and broadly to try boosting developer ecosystems to make _better epistemic public goods_ more conceivable and implementable
+- Views are my own not my employer's
+- Various software/IT earning to give experiences over the years (cloud admin, blockchain)
 
-- Pre 2016: artsy lefty activist guy 
-- 2016: read MIRI's research guide and decided that alignment looked easy, so quit everything I had been working on up till then and ordered a bunch of math textbooks
-- _Narrator: alignment was not easy_
-- 2018: started seriously consuming 80000 Hours podcast 
-- 2019: started attending local EA chapter events in Philly
-- 2020: attended EA Student Summit, started a "research cell" of individuals honing their views about what research they'd like to do
-- 2021: quit my job to live at CEEALAR (EA Hotel) and pursue alignment
-- _Narrator: CEEALAR was awesome_
-- 2021: SERI Summer Research Fellow asking questions about alignment in multipolar takeoff scenarios
-- 2021: Felt unsuccessful in my alignment efforts, got a job offer to work on a way-too-exciting tech stack for way-too-much money, so I took some time to build up confidence and improve my day-to-day effectiveness as a knowledge worker by E2G
-- 2022: Quit that job and accepted trial offer at Quantified Uncertainty Research Institute (QURI) to work on _evaluations infrastructure_ and broadly to try boosting developer ecosystems to make _better epistemic public goods_ more conceivable and implementable
+Much is omitted, but the relevant pattern is that I've **repeatedly thought about how I want to impact the world** and **made difficult decisions about my career at various junctures**. 
 
-The relevant pattern here is that I've **repeatedly thought about how I want to impact the world** and **made difficult decisions about my career at various junctures**. 
-
-# The workshop
-
-Each of these bullets will be followed by two minutes of quiet where you can write down your own instances. 
+# The talk
 
 1. Beliefs
 2. Values
@@ -79,6 +73,10 @@ If you think something is broken, you are **allowed** to fix it.
     - How to reason about competing priorities
     - How to find levers
     - How to win
+
+# Why the talk might matter to you 
+- You care about stuff but you're not sure where you plug in yet
+- You'd like to introspect more about what you'd like to do 
 
 # 1. Beliefs
 
@@ -130,12 +128,6 @@ The metaphor works by associating your time and energy with the capital you inve
 
 Immunity to crab buckets can be operationalized by your Big Five personality profile, for instance. I.e. low agreeableness can be an asset if there are social pressures making you less ambitious (though surrounding yourself with ambitious people might be easier than changing your personality). 
 
-## Knowing a criticism from a complaint
-Attackers are your friends; they can help your project improve. But some attackers provide _actionable criticism_ while others _just complain_. If you're struggling to see the distinction, you might be in a crab bucket. 
-
-There was a Paul Graham tweet at one point (paraphrasing): 
-> **Ambitious people see other ambitious people as colleagues**, so they don't jeer or celebrate when they see someone fail at doing something hard. 
-
 # 3. Hubris budget - ambition, humility, and ability to imagine yourself being awesome
 
 This is basically what is meant by _"hero license"_. 
@@ -159,7 +151,12 @@ The process so far may saddle you with a variety of goals, even a variety of goa
 
 # 5. Filtering - local knowledge & comparative advantage
 
-
+1. Local knowledge: things you know that the guy on the street doesn't know
+    - Your combination of experiences, insights, bits of knowledge, etc. make you uniquely suited to be the best in the world at at least one super niche thing (when you factor in replaceability) 
+    - In a car chase, the criminal who knows the backroads outperforms the cop from out of town
+2. Comparative advantage
+    - (In economics) how well you can perform without spending additional opportunity cost
+    - The stuff you've _already studied_
 
 # 5. Filtering - replaceability analysis
 
@@ -170,10 +167,22 @@ Doing [replaceability](https://forum.effectivealtruism.org/tag/replaceability) a
 - The second level of replaceability is to factor in the projects that doing `A` would keep the next-most suitable people away from doing, in worlds where you do `A`
 - You can see how it quickly becomes wild with opportunity costs, externalities, etc. 
 
-# Example: Alice
+# Example: Alice the environmentalist and political science major
 
-Alice **believes** that 6-degree warming scenarios are nontrivially likely and that 6-degree warming scenarios fall a hair to the catastrophic side of the catastrophe-existential razor. She **values** humanity's general flourishing and finds unevenly distributed famine, migration, etc. to run contrary to her notion of flourishing. She does some introspecting and concludes that she **can't spend as much hubris as some of her more reckless peers**, so we know that she won't pave her own way. On these inputs, Alice computes
+- Alice **believes** that 6-degree warming scenarios are nontrivially likely and that 6-degree warming scenarios fall a only hair to the catastrophic side of the catastrophic-existential razor. 
+- She **values** humanity's general flourishing and finds unevenly distributed famine, migration, etc. to run contrary to her notion of flourishing, but holds some population ethics conclusions that prefer extinction to some catastrophes. 
+- She does some introspecting and concludes that she **can't spend as much hubris as some of her more reckless peers**, so we know that she won't pave her own way. 
+- On these inputs, Alice computes that she'd like to **push down the probability of 6-degree scenarios**. 
+- In the space of pushing down that probability, she reasons that the major fork is science vs. policy, then decides to **double down on her comparative advantage** as a political science major and go into policy
+- She anticipates that for any policy job she gets, she'll be **replacing** someone who's more interested in 3-degree scenarios than 6-degree scenarios 
 
+# Example: Bob the justice-minded product manager
+
+- Bob **can see** that all incentives point toward irresponsible machine learning research and products, particularly in large language models, and that the harms of weaponized disinformation will crack down harder on some than others
+- He **senses a grave injustice** at the demographic disparities in the harm from disinformation
+- He does some introspecting and concludes that **he's willing to try something wild**
+- On these inputs, Bob computes that **he'd like to unite fact-checking with language generation**, even though he doesn't know how exactly just yet
+- So he begins the search for a cofounder who's a machine learning expert and starts the design stage of ideas, leveraging his experience in product management 
 
 # Summary
 
@@ -186,7 +195,6 @@ Alice **believes** that 6-degree warming scenarios are nontrivially likely and t
 # Ok, then what? 
 
 Then you find levers, and win (out of scope for the talk). 
-
 
 # Optional: difference between a goal and a lever
 

@@ -1,7 +1,7 @@
 # Goal Refinement talk
 For EAGxBoston 2022
 
-_Thanks to [Syd](https://cs-syd.eu/) for nixification of `potat`_. 
+_Thanks to [Syd](https://cs-syd.eu/) for nixification of `patat`_. 
 
 The slides are specified in `talk.md`.
 
