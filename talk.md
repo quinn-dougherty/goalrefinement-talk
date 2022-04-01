@@ -1,6 +1,6 @@
 ---
 title: A Simple Theory of Goal Refinement
-author: Quinn Dougherty | quinnd.net | quinnd@riseup.net | forum.effectivealtruism.org/users/quinn  
+author: Quinn Dougherty | quinnd.net | quinnd@riseup.net | forum.effectivealtruism.org/users/quinn
 patat:
     incrementalLists: true
     wrap: true
@@ -14,12 +14,6 @@ patat:
             - onDullYellow
             - dullBlack
 ...
-
-Notes: 
-- refine language around `levers`. 
-- takeaways slide. 
-    - consider doing the whole talk over again in three whole minutes after the summary slide. 
-- **why this matters** slide in the beginning and at the end. 
 
 # A simple theory of goal refinement
 
@@ -49,9 +43,8 @@ Much is omitted, but the relevant pattern is that I've **repeatedly thought abou
 Feel free to make up a fictional human and roleplay as them, but bonus points will be awarded to people who roleplay as themselves. The important thing is that _you should practice answering these questions_ even if next week you would not endorse any of your answers at all. 
 
 ## Optional: 
-- Difference between a goal and a lever
 - Theory of change / working forwards vs. working backwards
-- Discussion of "hero license" 
+- More discussion of "hero license" 
 
 # Prelude: I give you permission
 
@@ -62,6 +55,13 @@ If you think something is broken, you are **allowed** to fix it.
 - Qualifications don't matter
 - It is not outside of your jurisdiction
 - It is not above your paygrade
+
+# Beyond the ITN 
+
+- The ITN (importance, tractability, neglectedness) is an essential starting point in effective altruism
+- **But it doesn't tell you much about how _you_ fit into a problem's profile**. 
+    - Your unique knowledge base may lead you to a niche
+    - Your preferences may lead to you hacking your motivation and unlocking superpowers
 
 # Scope of the talk
 
@@ -75,8 +75,15 @@ If you think something is broken, you are **allowed** to fix it.
     - How to win
 
 # Why the talk might matter to you 
+
 - You care about stuff but you're not sure where you plug in yet
-- You'd like to introspect more about what you'd like to do 
+- You'd like time spent figuring out what you care about to lead to _actionable insights_
+
+## Takeaways
+
+- You can fix stuff that's broken
+- You should introspect to identify goals that make sense for you
+
 
 # 1. Beliefs
 
@@ -86,7 +93,6 @@ Big idea: _believing true things is hard_
 - **Bets** are gaining traction as a community norm (I'm guilty of not participating enough) 
 - Much has been written about how to make your beliefs less false over time 
     - Most seasoned EAs will have reading recommendations about this 
-    - Many of us read something called "The Sequences", subsets of which I do recommend
 - **Where you are in your journey of _approximating_ the truth _with_ your beliefs will be an input to the sorts of goals you identify**
 - The bedrock of any project is a belief about how the world is. Later, when you're finding levers and planning to win or taking actions, true beliefs will be a boon, factoring out mistakes and inaccuracies. 
 
@@ -124,7 +130,7 @@ The metaphor works by associating your time and energy with the capital you inve
 
 # 3. Hubris budget - tendency to flaunt or escape a crab bucket
 [Wikipedia](https://en.wikipedia.org/wiki/Crab_mentality)
-> Crab mentality, also known as crab theory,[1][2] crabs in a bucket (also barrel, basket, or pot) mentality, or the crab-bucket effect, is a way of thinking best described by the phrase "if I can't have it, neither can you". 
+> [T]he **crab-bucket effect is a way of thinking best described by the phrase "if I can't have it, neither can you"**. 
 
 Immunity to crab buckets can be operationalized by your Big Five personality profile, for instance. I.e. low agreeableness can be an asset if there are social pressures making you less ambitious (though surrounding yourself with ambitious people might be easier than changing your personality). 
 
@@ -133,14 +139,18 @@ Immunity to crab buckets can be operationalized by your Big Five personality pro
 This is basically what is meant by _"hero license"_. 
 
 - In the talk's prelude when I gave you permission to fix something you think is broken, was the thought alien to you or did you find it intuitive? 
+- Do you (deep down) think awesome people have whiter teeth than you? 
+- How do you reason about humility? Limitations? 
+
+_This can be cultivated_. 
 
 # 4. Goals
 
 Big idea: if you can reason about (i.e. pinpoint) your beliefs, values, and hubris budget, you should be able to **derive** goals. 
 
+- A goal: the fixing of a problem, "the end toward which effort is directed"
 - For the mathematically inclined: `f : beliefs -> values -> hubris -> goals` or `f : beliefs x values x hubris -> goals`
-- I can't _literally_ give you such a function `f`
-- In the examples you'll also see that I'm cheating and creating deliberately _leading_ beliefs and values, working backwards from a goal I have in mind
+    - I can't _literally_ give you such a function `f`
 
 # 5. Filtering
 
@@ -184,32 +194,46 @@ Doing [replaceability](https://forum.effectivealtruism.org/tag/replaceability) a
 - On these inputs, Bob computes that **he'd like to unite fact-checking with language generation**, even though he doesn't know how exactly just yet
 - So he begins the search for a cofounder who's a machine learning expert and starts the design stage of ideas, leveraging his experience in product management 
 
+# Failure modes
+
+- Starting from the end
+    - Try not to search for beliefs and values which justify goals that you already have in mind
+    - Starting from the end might lead you to faking interest in ideas that your friends put into your head, failing to capture your deepest motivation
+    - It also might exacerbate groupthink failure modes
+
 # Summary
 
-- You figure out **what you believe** and, 
+- You figure out **what you believe**, and 
 - separately, **what you value**. 
+    - Your beliefs are like an answer to a math problem: either true or false. Your values are more like aesthetic preferences. 
 - You introspect about your appetite for risk, for flaunting any social pressure to not be awesome, and what scale of impact makes sense for you emotionally and decide **what hubris allocation you're willing to spend or invest** in those beliefs and values. 
+    - (You may have noticed that this is arguably a filtration mechanism rather than an input)
 - You derive or compute some goals, some desires you would share with any individual on the same inputs, 
 - and then **filter** those goals down with respect to your comparative advantages tilting the scale in favor of scenarios where you are acting of low replaceability. 
+
+# Takeaways
+
+- You can fix stuff that's broken
+- You should introspect to identify goals that make sense for you
 
 # Ok, then what? 
 
 Then you find levers, and win (out of scope for the talk). 
 
-# Optional: difference between a goal and a lever
-
-A goal 
-
 # Optional: theory of change
 
-Wonderful essay by Aaron Schwartz about this. 
+[Wonderful essay by Aaron Schwartz](www.aaronsw.com/weblog/theoryofchange) about this. 
+- _Working forwards_: 
+> you work forwards from what you know how to do to try to find things you can do that will accomplish your goal.
+- _Working backwards_: 
+> To develop a theory of change, you need to start at the end and repeatedly ask yourself, “Concretely, how does one achieve that?”
 
 # Optional: hero license
 
 Scott Alexander writes
 
->  maybe if your dad is Charles Darwin, you don’t just go into science. You also start making lots of big theories, speculating about lots of stuff. The fact that something is an unsolved problem doesn’t scare you; trying to solve the biggest unsolved problems is just what normal people do.
+> maybe if your dad is Charles Darwin, you don’t just go into science. You also start making lots of big theories, speculating about lots of stuff. The fact that something is an unsolved problem doesn’t scare you; trying to solve the biggest unsolved problems is just what normal people do.
 
->  I did apply to medical school. I never even questioned whether I was cool enough for it, because my father is a doctor and “doctor” has always seemed like the default career path if you don’t actively exert effort to do something else. If I had been born a poor kid in the ghetto, then even if I’d had the same educational opportunities, and even if the medical schools were equally willing to accept me, I might have just not aimed that high.
+> I did apply to medical school. I never even questioned whether I was cool enough for it, because my father is a doctor and “doctor” has always seemed like the default career path if you don’t actively exert effort to do something else. If I had been born a poor kid in the ghetto, then even if I’d had the same educational opportunities, and even if the medical schools were equally willing to accept me, I might have just not aimed that high.
 
 Big idea: _if you can cultivate hero license you can increase your hubris budget_
